@@ -5,6 +5,7 @@ Aria2 - CLI Metalink/BitTorrent Client
 --------
     运行 aria2.exe
     访问 http://aria2c.com/ 查看状态
+    ![http://aria2c.com]aria2
     下载后的文件保存在 Aria2Data 文件夹中
 
 文件说明
